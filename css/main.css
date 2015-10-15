@@ -1,0 +1,39 @@
+body{
+
+	background-color: #bdbdbd;
+}
+
+.imagen{
+	width: 30%;
+	height: 100px;
+	margin-left: 35%;
+}
+/*1ra PARTE DEL PROYECTO--Empieza la parte de los Botones--*/
+
+/*Elementos de los botones*/
+.tapiz{
+	background-color: #ffffff;
+	height: auto;
+	padding: 2%;
+	margin: -1%;
+	margin-top:5%;
+
+}
+.titulo{
+	padding: 1%;
+}
+.tamano{
+	padding: 2%;
+	margin-top: 3%;
+}
+.tapiz2{
+	background-color: #ffffff;
+	height:auto;
+	padding: 2%;
+	margin: -1%;
+	margin-top:5%;}
+
+.margen{
+	width: 100%;
+	margin: 5%;
+}
